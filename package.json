@@ -1,7 +1,7 @@
 {
-  "name": "jack sparoow",
+  "name": "Black!",
   "version": "0.0.1",
-  "description": "Developers Jack Sparrow",
+  "description": "-- Black! --",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
